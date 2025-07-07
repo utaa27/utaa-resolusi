@@ -1,6 +1,7 @@
 RENCANA PKL
 menjadi bagian development
 -belajar github
+-belajar react
 -bisa github
 ingin menjadi IT
 -bisa bahasa pemrograman
